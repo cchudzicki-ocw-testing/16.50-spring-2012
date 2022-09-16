@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes the homework assignments and solutions for the
+  course including an optional assignment on heat transfer.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ SOLUTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit16_50s12_hw2)
+{{% resource_link "5fece1ca-b8eb-ad74-4083-572b8f61820d" "Homework 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 89930959-e5bc-f2b0-0a99-38bac1c72368 "Solution 2 (PDF)" %}}
